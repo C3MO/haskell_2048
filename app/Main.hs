@@ -1,11 +1,13 @@
 module Main where
 
 
-import qualified Game
-import qualified Random
+import qualified Game --import Game.hs
+import qualified Random --import Random.hs
 import Control.Monad.State
-import System.Random 
+import System.Random --This library deals with the common task of pseudo-random number generation.
 
+--Choose between a User-Game or auto(random)-generated game
+--player has the option to choose in the terminal
 
 main :: IO ()                   
 main = do

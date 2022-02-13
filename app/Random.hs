@@ -4,7 +4,7 @@ module Random (
 ) where
 
 import System.Random
-import Data.List
+import Data.List --Operations on lists
 
 rndInt :: (Int, Int) -> StdGen -> (Int, StdGen)
 rndInt interval = randomR interval
