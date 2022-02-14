@@ -1,4 +1,5 @@
 # haskell_2048
+![alt text](https://github.com/C3MO/haskell_2048/blob/main/readme_title_pictures/1.png) ![alt text](https://github.com/C3MO/haskell_2048/blob/main/readme_title_pictures/2.png)
 
 ### Install requirements
 GHCup (https://www.haskell.org/ghcup/)
